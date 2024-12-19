@@ -1,0 +1,27 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: silver;
+    font-size: 50px;
+}
+
+body {
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    padding: 50px;
+
+}
+
+.titulo { color: red;
+    
+
+}
+
+a {
+    font-size: large;
+    background-color:cornflowerblue;
+    color: blueviolet;
+    padding: 2px;
+    font-size: 40px;
+    
+}
